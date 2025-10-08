@@ -14,9 +14,15 @@ para criar na maquina, install composer e criar o db no phpmyadmin e
  o eloquent facilita os comandos php no código
  a pasta .htaaccess  da erro no codigo vscode mas funciona
 
+tem q ter:
+1.  **XAMPP:** Com os módulos Apache e MySQL.
+2.  **Composer:** O gerenciador de dependências para PHP.
+3.  **Git:** Para clonar o repositório.
+
 ajeitando o db -->>
 no terminal do projeto:
 1. install composer 
+2. composer install
 
 no phpmyadmin:
 criar database com o nome 'flight_projeto'
