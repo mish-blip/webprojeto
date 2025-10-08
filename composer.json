@@ -1,0 +1,7 @@
+{
+    "require": {
+        "flightphp/core": "^3.17",
+        "illuminate/database": "^12.32",
+        "robmorgan/phinx": "^0.16.10"
+    }
+}
